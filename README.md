@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/franciscog123/franciscog123/master/Intro-Banner-min.png)
 
-I'm a Web Developer from Needville, TX. I have experience building applications with C#, ASP.Net, ASP.Net MVC, JavaScript, and Angular.
+I'm a Web Developer. I have experience building applications with C#, ASP.Net, ASP.Net MVC, JavaScript, and Angular.
 
 Take a look at my portfolio: https://franciscog.netlify.app/
 <!--
