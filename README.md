@@ -2,7 +2,6 @@
 
 I'm a Web Developer. I have experience building applications with C#, ASP.Net, ASP.Net MVC, JavaScript, and Angular.
 
-Take a look at my portfolio: https://franciscog.netlify.app/
 <!--
 **franciscog123/franciscog123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
